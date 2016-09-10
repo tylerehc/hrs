@@ -1,9 +1,9 @@
 class Profile extends React.Component {
   render() {
-    return(<div>hello world</div>);
+    return(<div>hello cow</div>);
   }
 }
 
 ReactDOM.render(
   <Profile />, document.getElementById('profile')
-);
+)
